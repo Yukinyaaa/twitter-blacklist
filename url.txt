@@ -29,3 +29,4 @@ jp.myhealth-time.com/*
 jp.nice-foood.com/*
 qaafunny.com/*
 jp.smallpopo.com/*
+jitakukoukai.com/*

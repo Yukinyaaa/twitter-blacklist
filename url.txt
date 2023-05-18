@@ -30,3 +30,6 @@ jp.nice-foood.com/*
 qaafunny.com/*
 jp.smallpopo.com/*
 jitakukoukai.com/*
+kinmirainews.com/*
+tongari-tent.blue/*
+gamerzz.net/*

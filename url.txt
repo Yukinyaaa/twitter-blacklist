@@ -38,4 +38,4 @@ ytmgs.blog.jp/*
 paranormal-ch.com/*
 app.adjust.com/*
 jp.bestpets97.com/*
-curazy.com
+curazy.com/*

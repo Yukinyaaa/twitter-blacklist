@@ -40,3 +40,4 @@ app.adjust.com/*
 jp.bestpets97.com/*
 curazy.com/*
 firstopdesign.com/*
+jp.topcarweb.com/*
